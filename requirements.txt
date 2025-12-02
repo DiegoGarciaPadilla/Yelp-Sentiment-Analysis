@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+kagglehub
+pyarrow
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+gradio
+jupyter
